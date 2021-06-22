@@ -1,0 +1,6 @@
+*.class
+build.xml
+*jar
+./build
+./dist
+./.git
